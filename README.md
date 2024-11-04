@@ -5,7 +5,11 @@ Este script permite obtener de forma automatizada todas las versiones estenográ
 El script realiza las siguientes tareas:
 
 Recorrido de Páginas: Navega por las páginas de comunicados en el sitio web oficial dentro del rango especificado.
+
 Extracción de Enlaces: Obtiene los enlaces a cada versión estenográfica de las conferencias matutinas.
+
 Descarga de Contenido: Accede a cada enlace y extrae el contenido completo de la versión estenográfica.
+
 Almacenamiento de Datos: Guarda el contenido extraído en una tabla estructurada.
+
 Exportación a CSV: Permite descargar la tabla de datos en formato CSV para su uso en análisis posteriores.
